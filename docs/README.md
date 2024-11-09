@@ -58,7 +58,7 @@ Shows a list of all the tasks.
 Format: `list`
 
 ### Marking tasks as done: `mark`
-Marks ones or more existing tasks as done.
+Marks one or more existing tasks as done.
 
 Format: `mark <existing task numbers>`
 
@@ -68,7 +68,7 @@ Examples:
 - `mark 3 2 1`
 
 ### Marking tasks as not done: `unmark`
-Marks ones or more existing tasks as not done.
+Marks one or more existing tasks as not done.
 
 Format: `unmark <existing task numbers>`
 
@@ -78,7 +78,7 @@ Examples:
 - `unmark 3 2 1`
 
 ### Deleting tasks: `delete`
-Deletes ones or more existing tasks from the list of tasks.
+Deletes one or more existing tasks from the list of tasks.
 
 Format: `delete <existing task numbers>`
 
